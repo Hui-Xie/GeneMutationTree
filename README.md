@@ -1,6 +1,5 @@
 # MutationTree
-Summer 2016 Genetic Mutation Tree
+According raw gene information, construct many gene mutation trees, and try to find the inheritance correlation among mutations in order to find the drive mutation.
 
 # Author: Hui Xie
 
-File changes with the assistance of Hans J. Johnson
