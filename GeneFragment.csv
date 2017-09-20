@@ -1,0 +1,14 @@
+# Gene fragment csv file
+# please don't use Excel to edit this file
+# using comma to separate parent-child fragment
+# Line end must have NOT comma
+# Incorrect file format will lead program exception
+# make sure the child >= 0.5* parent
+# Do Not use repeated fragments
+27,17,12
+8,7,5,4
+22,16,8,5
+58,36,34,27,17,12,6,5
+42,29,18,9,6,5
+13,11,9,7,6,4
+11,10,9,7,5

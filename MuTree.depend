@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1454807875 source:d:\src\mutationtree\vaf_csvtree_struct.cpp
+	"VAF_CSVTree_struct.h"
+
+1463243964 d:\src\mutationtree\vaf_csvtree_struct.h
+	<string>
+
+1464972994 source:d:\src\mutationtree\analyzer.cpp
+	"Analyzer.h"
+	<cmath>
+	<assert.h>
+	"main.h"
+
+1464969468 d:\src\mutationtree\analyzer.h
+	"CSVFile.h"
+	"Constraints.h"
+	<map>
+	<list>
+	"Tree.h"
+
+1464902514 d:\src\mutationtree\csvfile.h
+	"VAF_CSVTree_struct.h"
+	<vector>
+	<map>
+
+1464371465 d:\src\mutationtree\constraints.h
+	<string>
+	<ctime>
+
+1463243496 d:\src\mutationtree\tree.h
+	<string>
+	<list>
+	<vector>
+
+1457848298 d:\src\mutationtree\main.h
+	"CSVFile.h"
+	"Constraints.h"
+	"QualifiedTrees.h"
+
+1464370226 d:\src\mutationtree\qualifiedtrees.h
+	"Tree.h"
+	<list>
+	<vector>
+	<map>
+
+1463695649 source:d:\src\mutationtree\constraints.cpp
+	"Constraints.h"
+
+1464903662 source:d:\src\mutationtree\csvfile.cpp
+	"CSVFile.h"
+	<cstring>
+	<iostream>
+	<cmath>
+	<fstream>
+	<sstream>
+	<algorithm>
+
+1464975639 source:d:\src\mutationtree\main.cpp
+	<iostream>
+	"main.h"
+	"Analyzer.h"
+
+1464974854 source:d:\src\mutationtree\qualifiedtrees.cpp
+	"QualifiedTrees.h"
+	"main.h"
+
+1463243964 source:d:\src\mutationtree\tree.cpp
+	"Tree.h"
+	<cmath>
+	"main.h"
+	<iostream>
+

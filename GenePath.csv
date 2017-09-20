@@ -1,0 +1,19 @@
+# Gene path fragment csv file
+# please don't use Excel to edit this file;
+# using comma to separate parent-child fragment (edge);
+# row end must not have comma;
+# Incorrect file format will lead program exception;
+# The same physical edge should not appear more than onetime in this file
+# image you have a pen to draw a tree, please do not draw repeated edge;
+13,11,9,7,6,4
+11,10,9,7,5,3
+18,9,6,3
+42,29,18,9,6,5,3
+6,5,3
+22,16,8,7,5,4,3
+16,8,5,3
+7,5,4,2
+10,7,6,4
+100,58,36,34,27,17,12,6,5,3
+5,2,1
+7,2,1
